@@ -11,5 +11,3 @@ the code in other to use other datasets.
 
 Contains some deep learning algorithms such as gradient descent with momentum, rmsprop and adam
 The code allows you to also use dropout and l2 regularization
-
-Please review my code and communicate any mistakes to me (henryansah083@gmail.com)
